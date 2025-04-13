@@ -1,0 +1,1 @@
+web: gunicorn summarizer_project.wsgi
